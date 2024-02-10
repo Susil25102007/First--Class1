@@ -1789,7 +1789,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
   
     elif query.data == "channels":
         buttons = [[
-            InlineKeyboardButton('⚜️ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⚜️', url='https://t.me/RSK_UPDATES')
+            InlineKeyboardButton('⚜️ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⚜️', url='https://t.me/RSK_update')
         ],[
             InlineKeyboardButton('🔍 ɢʀᴏᴜᴘ', url='https://t.me/RSK_MOVIEz')
         ],[
