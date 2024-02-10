@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph//file/8b771164e0
 CODE = (environ.get('CODE', 'https://telegra.ph//file/48d34742c01fa3096c4dc.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'ziplinker.net'))
-STREAM_API = (environ.get('STREAM_API', 'ae0832f39e24094a0661626a792e6a2b8880e310'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'paisakamalo.in'))
+STREAM_API = (environ.get('STREAM_API', '4b9b577f683bab9c305940a39daadd3c9b5554e0'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/RSK_How_to_Download/9'))
 
 # Admins, Channels & Users
