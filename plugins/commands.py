@@ -65,7 +65,7 @@ async def start(client, message):
         else:
             gtxt = "ɢᴏᴏᴅ ɴɪɢʜᴛ 👋"
         m=await message.reply_sticker("CAACAgUAAxkBAAJ5JGXHfy4etfe_FP0FL8cUktzxwCQwAAIiDAACq_U5VmNDAZSoy7ucNAQ") 
-        await asyncio.sleep(1)
+        await asyncio.sleep(0.5)
         await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
