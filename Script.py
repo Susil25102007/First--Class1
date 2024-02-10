@@ -247,7 +247,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ 📂 <i><a href="https://telegram.me/HP_MOVIES_WORLD">{file_name}</a></i>\n\n"""
+    CAPTION = """ 📂 <i><a href="https://telegram.me/RSK_MOVIEz">{file_name}</a></i>\n\n"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
@@ -297,8 +297,9 @@ BOT WORKING PROPERLY"""
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>harshal.purohit@paytm</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/Payment-Information-01-03'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>j.m4@paytm</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/RSK-MOVIEz-PREMIUM-02-04'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+🔗 ʟɪɴᴋ - <a href='https://cosmofeed.com/vig/65b519f8c4902e001e04c875'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -412,7 +413,7 @@ BOT WORKING PROPERLY"""
 
     UPI_TXT = """<b>👋 ʜᴇʏ {},
     
-⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
+⚜️ ᴘᴀʏ ᴀᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
 💵 ᴜᴘɪ ɪᴅ - <code>j.m4@paytm</code>
 
@@ -420,9 +421,10 @@ BOT WORKING PROPERLY"""
 
     QR_TXT = """<b>👋 ʜᴇʏ {},
     
-⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
+⚜️ ᴘᴀʏ ᴀᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/RSK-MOVIEz-PREMIUM-02-04'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
     PREPLANS_TXT = """<b>👋 ʜᴇʏ {},
@@ -451,7 +453,7 @@ special Thanks To ❤️ Developer -
     
     LINK_TXT = """<b>👋 ʜᴇʏ {},
     
-⚜️ ᴘᴀʏ ᴀᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
+⚜️ ᴘᴀʏ ᴀᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
 🔗 ʟɪɴᴋ - <a href='https://cosmofeed.com/vig/65b519f8c4902e001e04c875'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
