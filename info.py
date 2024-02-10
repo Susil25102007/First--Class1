@@ -31,7 +31,7 @@ CODE = (environ.get('CODE', 'https://telegra.ph//file/48d34742c01fa3096c4dc.jpg'
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'ziplinker.net'))
 STREAM_API = (environ.get('STREAM_API', 'ae0832f39e24094a0661626a792e6a2b8880e310'))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/HowToOpenLinkHP/69'))
+STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/RSK_How_to_Download/9'))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
