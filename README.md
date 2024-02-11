@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://graph.org/file/b34dc86a12fc8564bcf65.jpg](https://graph.org/file/0aa4c27816393f0f41c5e.jpg)" alt="The Movie Provider Bot Logo">
+  <img src="[https://graph.org/file/3335c67dd90439764e975.jpg](https://graph.org/file/0aa4c27816393f0f41c5e.jpg)" alt="The Movie Provider Bot Logo">
 </p>
 <h1 align="center">
   <a href="https://telegram.me/Susil_probot">KASHMIRA</a>
