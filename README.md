@@ -5,7 +5,7 @@
   <a href="https://telegram.me/TheMovieProviderBot">THE MOVIE PROVIDER BOT</a>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER-BOT;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+KASHMIRA;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
 </p>
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
@@ -17,7 +17,7 @@
 - [x] 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝒎𝒆𝒎𝒃𝒆𝒓𝒔𝒉𝒊𝒑 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 
 - [x] 𝐶𝑢𝑠𝑡𝑜𝑚 𝑆ℎ𝑜𝑟𝑡𝑛𝑒𝑟 ( 𝐴𝑙𝑙 𝑊𝑒𝑏𝑠𝑖𝑡𝑒𝑠 )
 - [x] 𝑆𝑡𝑟𝑒𝑎𝑚 𝑜𝑛𝑙𝑖𝑛𝑒 𝑎𝑛𝑑 𝐹𝑎𝑠𝑡 𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑
-- [x] 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑆𝑒𝑡
+- [x] 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡
 - [x] 𝐼𝑛𝑑𝑒𝑥𝑒𝑠 𝐹𝑖𝑙𝑒𝑠 𝑎𝑏𝑜𝑣𝑒 2𝐺𝐵
 - [x] 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐷𝑒𝑙𝑒𝑡𝑒 𝑀𝑜𝑑𝑒
 - [x] 𝑀𝑢𝑙𝑡𝑖𝑝𝑙𝑒 𝐹𝑖𝑙𝑒 𝐷𝑒𝑙𝑒𝑡𝑖𝑜𝑛
