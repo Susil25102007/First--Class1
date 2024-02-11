@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/6fa70325813885809a64a.jpg" alt="The Movie Provider Bot Logo">
+  <img src="https://graph.org/file/b34dc86a12fc8564bcf65.jpg" alt="The Movie Provider Bot Logo">
 </p>
 <h1 align="center">
   <a href="https://telegram.me/Susil_probot">KASHMIRA</a>
