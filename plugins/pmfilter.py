@@ -1,5 +1,5 @@
 # Kanged From @TroJanZheX
-# Thanks @DeletedFromEarth
+# Thanks @RSK_SUSIL
 import asyncio
 import re
 import ast
