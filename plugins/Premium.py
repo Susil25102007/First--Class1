@@ -152,4 +152,4 @@ async def plan(client, message):
     await message.reply_photo(photo="https://telegra.ph//file/8b771164e0a94dd05356c.jpg", caption=script.CPREMIUM_TEXT.format(message.from_user.mention), reply_markup=InlineKeyboardMarkup(btn))
     
 # SPECIAL THANKS TO [Rishikesh Sharma] @Rk_botowner FOR THESE AMAZING CODES
-# SPECIAL THANKS TO @DeletedFromEarth FOR MODIFYING THESE AMAZING CODES 
+# SPECIAL THANKS TO @RSK_SUSIL FOR MODIFYING THESE AMAZING CODES 
