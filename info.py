@@ -62,6 +62,7 @@ HOWTOVERIFY = environ.get('HOWTOVERIFY', url='https://t.me/') # How to open tuto
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'paisakamalo.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '4b9b577f683bab9c305940a39daadd3c9b5554e0')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
+
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
