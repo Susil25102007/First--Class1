@@ -54,8 +54,11 @@ DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://susilkumarsk268:A6ZECv
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster1")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
+# Verify
+VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
+HOWTOVERIFY = environ.get('HOWTOVERIFY', url='https://t.me/') # How to open tutorial link for verification
+
 # Others
-VERIFY = bool(environ.get('VERIFY', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'paisakamalo.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '4b9b577f683bab9c305940a39daadd3c9b5554e0')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
