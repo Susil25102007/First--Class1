@@ -48,17 +48,17 @@ class script(object):
 
 ◉ ɢʀᴏᴜᴩ: {}(<code>{}</code>)
 ◉ ᴍᴇᴍʙᴇʀꜱ: {}
-◉ ᴀᴅᴅᴇᴅ ʙʏ: {}"""
+◉ ᴀᴅᴅᴇᴅ ʙʏ: {}
 
-Bʏ <a href='https://t.me/Susil_probot'>ᴋᴀsʜᴍɪʀᴀ</a>"""
+ʙʏ <a href='https://t.me/Susil_probot'>ᴋᴀsʜᴍɪʀᴀ</a></b>"""
 
-    LOG_TEXT_P = """#ɴᴇᴡ_ᴜꜱᴇʀ
+    LOG_TEXT_P = """<b>#ɴᴇᴡ_ᴜꜱᴇʀ
     
 ◉ ᴜꜱᴇʀ-ɪᴅ: <code>{}</code>
-◉ ᴀᴄᴄ-ɴᴀᴍᴇ: {}"""
+◉ ᴀᴄᴄ-ɴᴀᴍᴇ: {}
 
-Bʏ <a href='https://t.me/Susil_probot'>ᴋᴀsʜᴍɪʀᴀ</a>"""
-
+ʙʏ <a href='https://t.me/Susil_probot'>ᴋᴀsʜᴍɪʀᴀ</a></b>"""
+    
     ALRT_TXT = """ʜᴇʟʟᴏ {},
 ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ,
 ʀᴇǫᴜᴇꜱᴛ ʏᴏᴜʀ'ꜱ..."""
