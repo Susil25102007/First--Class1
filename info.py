@@ -71,7 +71,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/RSK_MOVIEz')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/RSK_Backup')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/RSK_How_to_Download/15')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : sᴜsɪʟ')
+MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : мɪкєʏ')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001947391107')) #Log channel id ( make sure bot is admin )
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'ʜhttps://t.me/RSK_Admin_bot') #Support group link ( make sure bot is admin )
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
@@ -123,9 +123,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',True))
 if HAS_SSL:
-    URL = "https://kash-susil.koyeb.app/".format(FQDN)
+    URL = "https://kash-sk-793fe5211d09.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://kash-susil.koyeb.app/".format(FQDN)
+    URL = "https://kash-sk-793fe5211d09.herokuapp.com/".format(FQDN)
 
 # add premium logs channel id
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002012430052'))
