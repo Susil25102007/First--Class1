@@ -25,13 +25,13 @@ class script(object):
 
 <b>᚜ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs ᚛</b>
 
-➢ <a href='https://telegra.ph/RSK-MOVIEz-PREMIUM-02-04'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+➢ ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/RSK-MOVIEz-PREMIUM-02-04'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ➢ ᴜᴘɪ ɪᴅ - <code>mikey@postbank</code>
 
 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ғᴏʀ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴘᴀʏᴍᴇɴᴛ ɪɴғᴏ
 
-<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/mysterious_mikey'>ᴏᴡɴᴇʀ</a>
-ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/mysterious_daisy'>ᴍᴀɴᴀɢᴇʀ</a></b>"""
+<b>ᴏᴡɴᴇʀ - <a href='https://telegram.me/mysterious_mikey'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+ᴍᴀɴᴀɢᴇʀ - <a href='https://telegram.me/mysterious_daisy'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
     
     CHANNELS = """
 <b>๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ᴛᴏ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴜs.
