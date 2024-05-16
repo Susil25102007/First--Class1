@@ -59,8 +59,8 @@ VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( F
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/RSK_How_to_Download/15') # How to open tutorial link for verification
 
 # Others
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'paisakamalo.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '4b9b577f683bab9c305940a39daadd3c9b5554e0')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'hypershort.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'f16953268a848a1976a80baee21c0fff35896422')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
